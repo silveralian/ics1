@@ -1,1 +1,11 @@
+##1 
+cost = int(input("How much is that item?")
+if cost > 100:
+print("Wow! That's expensive!"
 
+##2 
+myname = Bethany 
+name = input("What is your name?")
+if name = myname[0]
+print("{name} is a cool name!")
+else(
