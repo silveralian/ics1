@@ -21,4 +21,6 @@ chopped_name = my_name9[-1:]
 else: 
 print("{name} is a cool name.")
 
-##3
+capitalize()
+title()
+##4
