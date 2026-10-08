@@ -1,1 +1,24 @@
+##1
+cost = float(input("Enter the cost:)")
+if cost > 100: 
+  print("Wow, that's expensive.")
 
+##2 
+name = input("Enter your name:")
+my name = "Bethany"
+
+user_first_letter = name[0]
+my_first_letter = my_name[0]
+user_last_letter = name[-1]
+
+if user_first_letter == my_first_letter:
+if the first letters are the same:
+  print("Wow our names both starts with {my_first_letter}")
+elif user_last_letter == my_first_letter:
+  print("Hey we can chain our names!")
+chopped_name = my_name9[-1:]
+  print("name + chopped_name")
+else: 
+print("{name} is a cool name.")
+
+##3
